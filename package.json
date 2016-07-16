@@ -1,0 +1,23 @@
+{
+  "name": "dankmemes",
+  "version": "0.0.2",
+  "description": "Get the dankest memes from reddit",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.73.0"
+  },
+  "keywords": [
+    "Dank",
+    "memes",
+    "dankest",
+    "memes",
+    "possible",
+    "for",
+    "you",
+    "via",
+    "urls",
+    "url"
+  ],
+  "author": "Snaheth Thumathy",
+  "license": "MIT"
+}
