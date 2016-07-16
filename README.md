@@ -14,9 +14,7 @@ memes('day', 2, function(err, data) {
 	console.log("The 2 most dankest memes of the day: " + JSON.stringify(data));
 });
 ```
-
 Documentation:
-
 *(timeLimit, numLimit, callback)*
 > timeLimit options: hour, day, week, month, year, all
 > callback will either have an error or data: see example above
