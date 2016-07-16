@@ -15,7 +15,8 @@ memes('day', 2, function(err, data) {
 });
 ```
 
-Note about memes params:
-> filter by: hour, day, week, month, year, all
-> 
-> You need to use one of these filters for the first parameter, else it will error out.
+Documentation:
+
+> (timeLimit, numLimit, callback)
+	> timeLimit options: hour, day, week, month, year, all
+	> callback will either have an error or data: see example above
