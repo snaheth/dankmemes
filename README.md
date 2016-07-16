@@ -17,5 +17,6 @@ memes('day', 2, function(err, data) {
 Documentation
 
 *(timeLimit, numLimit, callback)*
-> timeLimit options: hour, day, week, month, year, all
-> callback will either have an error or data: see example above
+> timeLimit can be hour, day, week, month, year, all  
+> numLimit can be any number  
+> callback will either have an error or data: see above
